@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".viewReminder">
+
+    <TextView
+            android:id="@+id/reminderName"
+            android:layout_width="143dp"
+            android:layout_height="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Name of Reminder:"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="16dp"/>
+
+    <TextView
+            android:id="@+id/reminderType"
+            android:layout_width="138dp"
+            android:layout_height="19dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="88dp"
+            android:text="Type of Reminder:"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/reminderName"/>
+
+    <TextView
+            android:id="@+id/listName"
+            android:layout_width="179dp"
+            android:layout_height="22dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="76dp"
+            android:text="Name of list belonged to"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/reminderType"/>
+
+    <EditText
+            android:id="@+id/reminderNameInputXML"
+            android:layout_width="184dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="24dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginEnd="16dp"/>
+
+    <EditText
+            android:id="@+id/reminderTypeInputXML"
+            android:layout_width="181dp"
+            android:layout_height="57dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="16dp" android:layout_marginTop="120dp" app:layout_constraintTop_toTopOf="parent"/>
+
+    <EditText
+            android:id="@+id/listNameInputXML"
+            android:layout_width="145dp"
+            android:layout_height="47dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="24dp" android:layout_marginTop="212dp" app:layout_constraintTop_toTopOf="parent"/>
+
+    <Button
+            android:id="@+id/editButtonXML"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Edit/Save"
+            app:layout_constraintEnd_toStartOf="@+id/deleteButtonXML"
+            app:layout_constraintHorizontal_bias="0.508"
+            app:layout_constraintStart_toEndOf="@+id/backButtonXML"
+            android:layout_marginTop="288dp" app:layout_constraintTop_toTopOf="parent"/>
+
+    <Button
+            android:id="@+id/backButtonXML"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:text="Back"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="288dp" app:layout_constraintTop_toTopOf="parent"/>
+
+    <Button
+            android:id="@+id/deleteButtonXML"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="40dp"
+            android:text="Delete"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="288dp" app:layout_constraintTop_toTopOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

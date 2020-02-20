@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD:GLM/app/src/main/AndroidManifest.xml
+    package="edu.qc.seclass.GLM">
+=======
+    package="edu.qc.seclass.RLM">
+>>>>>>> dev:GroupProject/RLM/app/src/main/AndroidManifest.xml
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+<<<<<<< HEAD:GLM/app/src/main/AndroidManifest.xml
+        <activity android:name="edu.qc.seclass.GLM.viewList"></activity>
+        <activity android:name="edu.qc.seclass.GLM.viewReminder" />
+        <activity android:name="edu.qc.seclass.GLM.showLists" />
+        <activity android:name="edu.qc.seclass.GLM.deleteList" />
+        <activity android:name="edu.qc.seclass.GLM.showReminders" />
+        <activity android:name="edu.qc.seclass.GLM.newReminder" />
+        <activity android:name="edu.qc.seclass.GLM.newList" />
+        <activity android:name="edu.qc.seclass.GLM.MainActivity">
+=======
+        <activity android:name="edu.qc.seclass.RLM.searchReminder" ></activity>
+        <activity android:name="edu.qc.seclass.RLM.viewList" />
+        <activity android:name="edu.qc.seclass.RLM.viewReminder" />
+        <activity android:name="edu.qc.seclass.RLM.showLists" />
+        <activity android:name="edu.qc.seclass.RLM.showReminders" />
+        <activity android:name="edu.qc.seclass.RLM.newReminder" />
+        <activity android:name="edu.qc.seclass.RLM.newList" />
+        <activity android:name="edu.qc.seclass.RLM.MainActivity">
+>>>>>>> dev:GroupProject/RLM/app/src/main/AndroidManifest.xml
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
