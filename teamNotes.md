@@ -23,16 +23,14 @@
 	- Edit- db.update(String ReminderID, Values[] values)
 	- Delete- needs updates (fill in the blanks using methods in DBHelper or make new one)
 	- Switch listName field to list. Should pull existing lists from db.
-
-<<<<<<< HEAD
 - Multiple items can be selected and opened from list if tapped quickly.
 - showreminders don't work 
 - layout changes for each activity to display data within the screen
 - alerts not implemented 
-=======
+
 ## Ideas for V2
 - Hamburger Menu for Main Activity Options
 
 ## Bugs
 - Multiple items can be selected and opened from list if tapped quickly.
->>>>>>> dev
+
