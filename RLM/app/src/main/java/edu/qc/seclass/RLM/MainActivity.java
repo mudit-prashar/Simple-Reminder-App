@@ -1,8 +1,4 @@
-<<<<<<< HEAD:GLM/app/src/main/java/edu/qc/seclass/GLM/MainActivity.java
-package edu.qc.seclass.GLM;
-=======
 package edu.qc.seclass.RLM;
->>>>>>> dev:GroupProject/RLM/app/src/main/java/edu/qc/seclass/RLM/MainActivity.java
 
 import android.content.DialogInterface;
 import android.widget.*;

@@ -1,8 +1,4 @@
-<<<<<<< HEAD:GLM/app/src/main/java/edu/qc/seclass/GLM/viewReminder.java
-package edu.qc.seclass.GLM;
-=======
 package edu.qc.seclass.RLM;
->>>>>>> dev:GroupProject/RLM/app/src/main/java/edu/qc/seclass/RLM/viewReminder.java
 
 import androidx.appcompat.app.AppCompatActivity;
 
