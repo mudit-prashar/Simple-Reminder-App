@@ -6,7 +6,7 @@ To create a reminder list, press the 'NEW LIST' button
 Type in the name of the reminder list
 Press the confirm button
 ```
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/newList.PNG">
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/newList.PNG">
 
 ### Editing a reminder list
 ```
@@ -15,7 +15,7 @@ Press the reminder list to be edited
 Edit the desired field or check a task that has been completed 
 Press the 'EDIT/SAVE' button
 ```
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/editReminderNEW.PNG"> 
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/editReminderNEW.PNG"> 
 
 ### Deleting a reminder list
 ```
@@ -27,7 +27,7 @@ Press the reminder list to be deleted
 Press the 'DELETE' button
 
 ```
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/deleteList.PNG">
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/deleteList.PNG">
 
 ### Creating a reminder
 ```
@@ -38,7 +38,7 @@ Press the 'CONFIRM' button
 If you would like to add an alert to the reminder, select the alert option and choose a time (Not yet implemented)
 If you would like to repeat an alert in the reminder, select the repeat option and choose the day(s) (Not yet implemented)
 ```
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/updatedReminder.PNG">
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/updatedReminder.PNG">
 
 ### Editing a reminder
 ```
@@ -55,7 +55,7 @@ Press the reminder to be edited
 Edit the desired field
 Press the 'EDIT/SAVE' button
 ```
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/editReminder.PNG">
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/editReminder.PNG">
 
 ### Deleting a reminder
 ```
@@ -70,19 +70,19 @@ Press the 'SEARCH' button
 Press the reminder to be deleted
 Press the 'DELETE' button
 ```
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/deleteReminder.PNG"> 
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/deleteReminder.PNG"> 
 
 ### Viewing reminders of a specific list
 ```
 To view the reminders of a specific list, select the target list from the drop down and then press the button "SHOW REMINDERS" 
 ```
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/remindersOfSpecificList.PNG">
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/remindersOfSpecificList.PNG">
 
 ### Viewing all existing Lists 
 ```
 To view all created lists, user can click the "SHOW LISTS" button, which they will be directed to a UI of all available lists the user can work on
 ```
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/updatedShowLists.PNG">
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/updatedShowLists.PNG">
 
 ### Searching for a reminder 
 ```
@@ -91,7 +91,7 @@ Type in the name of the reminder to be found
 Press the search button
 If a match is not found, you may choose to add the reminder by selecting a reminder type and then press save (Not yet implemented)
 ```
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/updatedsearchReminders.PNG">
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/updatedsearchReminders.PNG">
 
 ### Checking-off a reminder (Marking it as completed) *(Implemented Partially)*
 ```

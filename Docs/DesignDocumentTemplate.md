@@ -69,7 +69,7 @@ due to the limitation of screen size , if it's in landscape or horizontal mode e
 
 ### 2.1 Component Diagram
 
-<img src="https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/Component Diagram.png">
+<img src="https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/Component Diagram.png">
 
 
 ### 2.2 Deployment Diagram
@@ -86,7 +86,7 @@ due to the limitation of screen size , if it's in landscape or horizontal mode e
 
 *In the case of an OO design, the internal structure of a software component would typically be expressed as a UML class diagram that represents the static class structure for the component and their relationships.*
 
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/Group UML.png">
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/Group UML.png">
 
 ### 3.2 Other Diagrams
 
@@ -99,30 +99,30 @@ due to the limitation of screen size , if it's in landscape or horizontal mode e
 
 Most up to date main menu UI. 
 
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/updatedMainMenu.PNG">
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/updatedMainMenu.PNG">
 
 Creating a new reminder, now with the ability to give you alerts, you assign it to a list from the dropdown 
 
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/updatedReminder.PNG">
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/updatedReminder.PNG">
 
 Now you can search for reminders
 
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/updatedsearchReminders.PNG">
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/updatedsearchReminders.PNG">
 
 Updated show lists UI 
 
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/updatedShowLists.PNG">
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/updatedShowLists.PNG">
 
 ## The Mockup's below are old and part of the Alpha app-----------------------------------------------------------------
 
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/updatedMainMenu.PNG"> 
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/updatedMainMenu.PNG"> 
 
 UI of creating a new reminder, will have the ability to name it's type as well, and select the list to assign the reminder to 
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/newReminder.PNG"> 
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/newReminder.PNG"> 
 
 UI of new list.
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/newList.PNG">
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/newList.PNG">
 
 - Another look of the User Interface, instead of having multiple "Recent" lists being displayed, gives you the option to select any of the existing lists from the drop down
 
-<img src = "https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/MockUp2_AnotherLook.PNG">
+<img src = "https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/MockUp2_AnotherLook.PNG">

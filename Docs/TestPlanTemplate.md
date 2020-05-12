@@ -31,4 +31,4 @@ We plan to use JUnit, as well as manual black-box testing techniques for our num
 
 ## 2 Test Cases
 
-![Test Table](https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/Test_Case_Table_v3.png)
+![Test Table](https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/Test_Case_Table_v3.png)

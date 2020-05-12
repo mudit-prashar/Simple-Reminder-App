@@ -1,7 +1,7 @@
 # Use Case Model
 **Author**: Stelios and Komal
 ## Use Case Diagram
-![Use Case Diagram](https://github.com/qc-se-fall2019/370Fall19Team1b/blob/master/GroupProject/Docs/Images/Use%20Case%20Diagram.jpg "Use Case Diagram")
+![Use Case Diagram](https://github.com/mudit-prashar/Simple-Reminder-App/blob/master/Docs/Images/Use%20Case%20Diagram.jpg "Use Case Diagram")
 ##  Use Case Descriptions
 
 ### Users
